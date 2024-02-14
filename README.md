@@ -1,4 +1,4 @@
-<h2> Hi, I'm Leo Batista! <img src="https://img.freepik.com/psd-gratuitas/tridimensional-imagem-de-computador_53876-1610.jpg?w=740&t=st=1707942431~exp=1707943031~hmac=d816b061afd6d0bcb784a3f704d008258da69d8e9fe325da7bc5a3e0b70d4a28" width="50"></h2>
+<h2> Hi, I'm Leo Batista! <img src="" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZFiBmGVClrgxt02N9X/giphy.gif" width="230">
 <p><em>Computer networks student at <a href="https://www.ifpb.edu.br/">IFPB</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Developer <a href=""></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>

@@ -1,18 +1,44 @@
-# 💫 About Me
-🔭 Aspirante em desenvolvimento Full-Stack <br>🌱 Aprimorando Redes de Computadores
+<h2> Hi, I'm Leo Batista! <img src="https://br.freepik.com/vetores-gratis/ola-redacao-no-balao-de-fala-em-quadrinhos-no-estilo-pop-art_13466760.htm#query=hello&position=2&from_view=search&track=sph&uuid=2780eb16-5c3e-4404-bf19-63cbe4de5dc5" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ZFiBmGVClrgxt02N9X/giphy.gif" width="230">
+<p><em>Computer networks student at <a href="https://www.ifpb.edu.br/">IFPB</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Developer <a href=""></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Instagram: leovento2](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leovento2/)
+[![Linkedin: leobatista](https://img.shields.io/badge/-leo%20batista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-batista-a3a208206/)](https://www.linkedin.com/in/leo-batista-a3a208206/)
+[![GitHub leobatista3](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leobatista3.github.io/)
 
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leovento2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leo-batista-a3a208206) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@leobatista) 
+### <img src="https://media.giphy.com/media/jncITDpcZNg94j74aS/giphy.gif" width="50"> A little about me...  
 
-# 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=leobatista3&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=leobatista3&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leobatista3&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```C
+#include <stdio.h>
+typedef struct {
+    const char *code[7];
+    const char *tools[7];
+    const char *architecture[3];
+} MyPreferences;
+int main() {
+    MyPreferences preferences = {
+        .code = {"Javascript", "C#", "SQL", "Kotlin", "Ruby", "Python", "Java"},
+        .tools = {"React", ".NET", "Node", "PostgreSQL", "Insomnia", "Jest", "Docker"},
+        .architecture = {"microservices", "event-driven", "design system pattern"}
+    };
+    const char *categories[] = {"Code:", "Tools:", "Architecture:"};
+    for (int j = 0; j < 3; j++) {
+        printf("%s", categories[j]);
+        const char **preferenceArray = (j == 0) ? preferences.code : (j == 1) ? preferences.tools : preferences.architecture;
+        int preferenceCount = (j == 0 || j == 1) ? 7 : 3;
+        for (int i = 0; i < preferenceCount; i++) {
+            printf(" %s, ", preferenceArray[i]);
+        }
+        printf("\n");
+    }
+    return 0;
+}
+```
+
+<img src="https://media.giphy.com/media/ixzf0b27REcINaconp/giphy.gif" width="60"> <em><b>Feel free to drop a "hello" if you enjoy connecting with diverse individuals</b><b> —I'd be delighted to get to know you better!so if you want to say</b> :)</em>
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=leobatista3&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

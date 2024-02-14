@@ -4,7 +4,7 @@
 </em></p>
 
 [![Instagram: leovento2](https://img.shields.io/badge/leobatista-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leovento2/)
-[![Linkedin: leobatista](https://img.shields.io/badge/-leo%20batista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-batista-a3a208206/)](https://www.linkedin.com/in/leo-batista-a3a208206/)
+[![Linkedin: leobatista](https://img.shields.io/badge/leo%20batista-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-batista-a3a208206/)
 [![GitHub leobatista3](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leobatista3.github.io/)
 
 

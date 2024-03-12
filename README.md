@@ -1,4 +1,4 @@
-<h2> Hi, I'm Leo Batista! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdsN3J2dHk0N3c0cWs0MjAwOWI0amlhOWIzNzJpcmV0aThlaHZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G4s3kCibtD4mmtEjmV/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Leo Batista! <!--img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdsN3J2dHk0N3c0cWs0MjAwOWI0amlhOWIzNzJpcmV0aThlaHZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G4s3kCibtD4mmtEjmV/giphy.gif" width="50"--></h2>
 <img align='right' src="https://media.giphy.com/media/ZFiBmGVClrgxt02N9X/giphy.gif" width="230">
 <p><em>Computer networks student at <a href="https://www.ifpb.edu.br/">IFPB</a></br>Full Stack Developer <a href=""><!--/a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p-->
